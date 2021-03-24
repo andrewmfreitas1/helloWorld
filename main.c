@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Olaa mundo da branch add ref!\n");
-    return 1;
+    printf("Olaa mundo da branch Master!!\n");
+    return 0;
+
 }
