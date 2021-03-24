@@ -1,0 +1,2 @@
+este arquivo representa alguma funcionalidade que quero compartilhar.
+OK, esta funcionalidade pode ser adicionada ao branch principal
